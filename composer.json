@@ -1,0 +1,14 @@
+{
+    "name": "vendor_name/heroku",
+    "description": "description",
+    "minimum-stability": "stable",
+    "license": "proprietary",
+    "authors": [
+      {
+        "name": "Chan Rou Hui",
+        "email": "21016163@myrp.edu.sg"
+      }
+    ],
+    "require": {
+    }
+  }
